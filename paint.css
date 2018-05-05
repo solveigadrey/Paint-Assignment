@@ -1,0 +1,19 @@
+.canvasHolder{
+  height: 499px;
+  width: 499px;
+  border : 1px solid black;
+}
+
+.colorHolder{
+  height: 59px;
+  width : 499px;
+  border: 1px solid black;
+}
+
+.choosenColor{
+  height: 25px;
+  width: 25px;
+  display: inline-block;
+  border-radius: 16px;
+  margin : 20px;
+}
